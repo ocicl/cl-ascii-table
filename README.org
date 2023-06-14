@@ -1,0 +1,9 @@
+* cl-ascii-table
+
+Common Lisp API to present tabular data in ASCII-art tables
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/telephil/cl-ascii-table.git |
+| commit  | 3c316cd                                            |
+| systems | cl-ascii-table                                     |
+|---------+----------------------------------------------------|
